@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/common/ic_close_white.png</file>
+        <file>resource/common/ic_min.png</file>
+        <file>resource/images/ic_home.png</file>
+        <file>resource/images/ic_info.png</file>
+        <file>resource/images/ic_question.png</file>
+        <file>resource/images/ic_warning.png</file>
+        <file>resource/common/arrow-down.png</file>
+        <file>resource/common/arrow-up.png</file>
+        <file>resource/images/ic_app.png</file>
+        <file>resource/ico/app.ico</file>
+    </qresource>
+    <qresource prefix="/qss">
+        <file>resource/qss/default.css</file>
+    </qresource>
+</RCC>

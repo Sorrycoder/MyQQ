@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/close.png</file>
+        <file>images/wechat.png</file>
+        <file>images/user.png</file>
+        <file>images/close-2.png</file>
+        <file>images/Minimize-2.png</file>
+        <file>images/Minimize-white.png</file>
+        <file>images/setting-2.png</file>
+        <file>images/setting-white.png</file>
+        <file>images/friend.png</file>
+        <file>images/app.png</file>
+        <file>images/group.png</file>
+        <file>images/huihua.png</file>
+        <file>images/adduser.png</file>
+        <file>images/can.png</file>
+        <file>images/menu.png</file>
+        <file>images/weather.png</file>
+        <file>images/2Dgroup.png</file>
+        <file>images/app1.png</file>
+        <file>images/huihua2.png</file>
+        <file>images/lianxiren.png</file>
+        <file>images/lock-fill.png</file>
+        <file>images/user-1.png</file>
+    </qresource>
+</RCC>
